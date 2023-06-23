@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319145046695",
+    "firebase_url": "https://fir-ebb05-default-rtdb.firebaseio.com",
+    "project_id": "fir-ebb05",
+    "storage_bucket": "fir-ebb05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319145046695:android:84aec0ab13d9868fade182",
+        "android_client_info": {
+          "package_name": "com.app.latihanfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319145046695-hac1c7geq7rf6mlho6u1tfa7irtlts82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2teC-CEz-_HfjJHbFxuTDoGTS57AFgIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319145046695-hac1c7geq7rf6mlho6u1tfa7irtlts82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
